@@ -2,6 +2,6 @@
   "name": "test-github-actions",
   "version": "1.0.0",
   "scripts": {
-    "test": "node --test **/*.spec.js"
+    "test": "node --test index.spec.js"
   }
 }
